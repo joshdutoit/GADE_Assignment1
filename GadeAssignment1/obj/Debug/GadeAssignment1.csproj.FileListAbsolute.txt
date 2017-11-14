@@ -1,0 +1,9 @@
+C:\Users\joshd\OneDrive\Documents\Visual Studio 2017\Projects\GadeAssignment1\GadeAssignment1\obj\Debug\GadeAssignment1.csprojResolveAssemblyReference.cache
+C:\Users\joshd\OneDrive\Documents\Visual Studio 2017\Projects\GadeAssignment1\GadeAssignment1\obj\Debug\GadeAssignment1.Form1.resources
+C:\Users\joshd\OneDrive\Documents\Visual Studio 2017\Projects\GadeAssignment1\GadeAssignment1\obj\Debug\GadeAssignment1.Properties.Resources.resources
+C:\Users\joshd\OneDrive\Documents\Visual Studio 2017\Projects\GadeAssignment1\GadeAssignment1\obj\Debug\GadeAssignment1.csproj.GenerateResource.Cache
+C:\Users\joshd\OneDrive\Documents\Visual Studio 2017\Projects\GadeAssignment1\GadeAssignment1\bin\Debug\GadeAssignment1.exe.config
+C:\Users\joshd\OneDrive\Documents\Visual Studio 2017\Projects\GadeAssignment1\GadeAssignment1\bin\Debug\GadeAssignment1.exe
+C:\Users\joshd\OneDrive\Documents\Visual Studio 2017\Projects\GadeAssignment1\GadeAssignment1\bin\Debug\GadeAssignment1.pdb
+C:\Users\joshd\OneDrive\Documents\Visual Studio 2017\Projects\GadeAssignment1\GadeAssignment1\obj\Debug\GadeAssignment1.exe
+C:\Users\joshd\OneDrive\Documents\Visual Studio 2017\Projects\GadeAssignment1\GadeAssignment1\obj\Debug\GadeAssignment1.pdb
